@@ -1,0 +1,16 @@
+C:\Users\Juan\Dropbox\BTS\SI4 Prog\Coloretto\Coloretto\bin\Release\Coloretto.exe
+C:\Users\Juan\Dropbox\BTS\SI4 Prog\Coloretto\Coloretto\bin\Release\Coloretto.pdb
+C:\Users\Juan\Dropbox\BTS\SI4 Prog\Coloretto\Coloretto\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Juan\Dropbox\BTS\SI4 Prog\Coloretto\Coloretto\obj\x86\Release\Coloretto.Home.resources
+C:\Users\Juan\Dropbox\BTS\SI4 Prog\Coloretto\Coloretto\obj\x86\Release\Coloretto.Parametres_couleur.resources
+C:\Users\Juan\Dropbox\BTS\SI4 Prog\Coloretto\Coloretto\obj\x86\Release\Coloretto.Parametres_nom.resources
+C:\Users\Juan\Dropbox\BTS\SI4 Prog\Coloretto\Coloretto\obj\x86\Release\Coloretto.Parametres_score.resources
+C:\Users\Juan\Dropbox\BTS\SI4 Prog\Coloretto\Coloretto\obj\x86\Release\Coloretto.Partie.resources
+C:\Users\Juan\Dropbox\BTS\SI4 Prog\Coloretto\Coloretto\obj\x86\Release\Coloretto.Properties.Resources.resources
+C:\Users\Juan\Dropbox\BTS\SI4 Prog\Coloretto\Coloretto\obj\x86\Release\Coloretto.Regles.resources
+C:\Users\Juan\Dropbox\BTS\SI4 Prog\Coloretto\Coloretto\obj\x86\Release\Coloretto.Score_game.resources
+C:\Users\Juan\Dropbox\BTS\SI4 Prog\Coloretto\Coloretto\obj\x86\Release\Coloretto.Score_manche.resources
+C:\Users\Juan\Dropbox\BTS\SI4 Prog\Coloretto\Coloretto\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Juan\Dropbox\BTS\SI4 Prog\Coloretto\Coloretto\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Juan\Dropbox\BTS\SI4 Prog\Coloretto\Coloretto\obj\x86\Release\Coloretto.exe
+C:\Users\Juan\Dropbox\BTS\SI4 Prog\Coloretto\Coloretto\obj\x86\Release\Coloretto.pdb

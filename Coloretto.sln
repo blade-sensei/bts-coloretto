@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Coloretto", "Coloretto\Coloretto.csproj", "{6E95C515-FC93-4B9B-9C1A-9D5A960BFEAD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{FA417489-C923-4FC0-98F7-F2A7DE3B43D8}"
+	ProjectSection(SolutionItems) = preProject
+		Coloretto.vsmdi = Coloretto.vsmdi
+		Local.testsettings = Local.testsettings
+		TraceAndTestImpact.testsettings = TraceAndTestImpact.testsettings
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = Coloretto.vsmdi
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E95C515-FC93-4B9B-9C1A-9D5A960BFEAD}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{6E95C515-FC93-4B9B-9C1A-9D5A960BFEAD}.Debug|Mixed Platforms.ActiveCfg = Release|x86
+		{6E95C515-FC93-4B9B-9C1A-9D5A960BFEAD}.Debug|Mixed Platforms.Build.0 = Release|x86
+		{6E95C515-FC93-4B9B-9C1A-9D5A960BFEAD}.Debug|x86.ActiveCfg = Debug|x86
+		{6E95C515-FC93-4B9B-9C1A-9D5A960BFEAD}.Debug|x86.Build.0 = Debug|x86
+		{6E95C515-FC93-4B9B-9C1A-9D5A960BFEAD}.Release|Any CPU.ActiveCfg = Release|x86
+		{6E95C515-FC93-4B9B-9C1A-9D5A960BFEAD}.Release|Any CPU.Build.0 = Release|x86
+		{6E95C515-FC93-4B9B-9C1A-9D5A960BFEAD}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{6E95C515-FC93-4B9B-9C1A-9D5A960BFEAD}.Release|Mixed Platforms.Build.0 = Release|x86
+		{6E95C515-FC93-4B9B-9C1A-9D5A960BFEAD}.Release|x86.ActiveCfg = Release|x86
+		{6E95C515-FC93-4B9B-9C1A-9D5A960BFEAD}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
